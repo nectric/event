@@ -1,0 +1,4 @@
+[submodule "iif-oss"]
+	path = iif-oss
+	url = git@github.com:mitchelloharawild/conf-iif-open-source-forecasting.git
+	branch = gh-pages
